@@ -1,0 +1,12 @@
+#define MAX_FILE_BYTE_SIZE 10000
+#define SOCK_ADDR "127.0.0.1"
+#define SOCK_CLIENT_PORT 8080
+#define SENDING_SOCK_CLIENT_PORT 8181
+#define SOCK_SERVER_PORT 1337
+
+#define CLIENT_MESSAGE_GIVE_FILE_SIZE "SEND"
+#define MAX_FILE_BYTE_SIZE_STR "10000"
+
+#define INPUT_FILENAME "files/img_input.png"
+#define OUTPUT_FILENAME "files/img_output.png"
+
